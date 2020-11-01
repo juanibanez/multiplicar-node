@@ -1,6 +1,6 @@
 
 
-## Multiplicar Consolo App
+## Multiplicar Console App
 
 Esta es una placación para generar tablas de multiplicar
 
